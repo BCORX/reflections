@@ -1,0 +1,11 @@
+How did viewing a diff between two versions of a file help you see the bug that was introduced?
+shows line by the line the changes done
+
+How could having easy access to the entire history of a file make you a more efficient programmer in the long term?
+Remembers what worked and shows evolution of thinking. Can go back when serious mistakes are made.
+
+Why do you think some version control systems, like Git, allow saving multiple files in one commit, while others, like Google Docs, treat each file separately?
+changes to software often happen at multiple files at once while in google docs, docs are just one entity with little or no relation to other documents.
+
+How might using version control make you more confident to make changes that could break something?
+It is always possible to get to previous versions and get the mistakes undone.
